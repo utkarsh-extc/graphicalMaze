@@ -1,0 +1,3 @@
+Successfully created Log File
+Initialize is successfully done
+Log file Closed Successfully
